@@ -157,18 +157,59 @@
     <Content Include="PkgFolder\ImportConfig.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\Entity.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\FormXml\card\{8ddeb212-a580-432d-9dde-12396f274f49}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\FormXml\main\{f994a732-7096-4ab6-af8d-9c145a72a1c1}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\FormXml\quick\{8bb932e3-8175-4ceb-84ed-dc5fe02a870c}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\RibbonDiff.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{53dbeaa1-2498-4595-bb1f-559c40c450a3}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{55e2266f-eb8f-4a5c-b808-94dd55c579ff}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{5d309f7e-6415-e911-a95c-000d3a59746e}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{84570371-5cb2-4de4-81ad-8c229e1acf85}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{8c31d804-e948-4600-ba89-396201d830ad}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{a4a3f0bf-d7dc-452c-abbb-8059b71f750c}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Entities\devops_customentity1\SavedQueries\{e083380a-494d-449f-a07b-055c25ec960a}.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Other\Customizations.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Other\Relationships.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Other\Relationships\Organization.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Other\Relationships\SystemUser.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Other\SiteMap_managed.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\Other\Solution.xml" />
+    <Content Include="PkgFolder\Solution1\Solution1\WebResources\devops_copyEmail.data.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\Entity.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\FormXml\card\{8ddeb212-a580-432d-9dde-12396f274f49}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\FormXml\main\{f994a732-7096-4ab6-af8d-9c145a72a1c1}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\FormXml\quick\{8bb932e3-8175-4ceb-84ed-dc5fe02a870c}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\RibbonDiff.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{53dbeaa1-2498-4595-bb1f-559c40c450a3}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{55e2266f-eb8f-4a5c-b808-94dd55c579ff}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{5d309f7e-6415-e911-a95c-000d3a59746e}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{84570371-5cb2-4de4-81ad-8c229e1acf85}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{8c31d804-e948-4600-ba89-396201d830ad}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{a4a3f0bf-d7dc-452c-abbb-8059b71f750c}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Entities\devops_customentity1\SavedQueries\{e083380a-494d-449f-a07b-055c25ec960a}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Other\Customizations.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Other\Relationships.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Other\Relationships\Organization.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Other\Relationships\SystemUser.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Other\SiteMap_managed.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\Other\Solution.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\PluginAssemblies\FirstClass-0CB7AC7C-EE60-4479-B704-E045B077FAFB\FirstClass.dll" />
+    <Content Include="PkgFolder\Solution2\Solution2\PluginAssemblies\FirstClass-0CB7AC7C-EE60-4479-B704-E045B077FAFB\FirstClass.dll.data.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\SdkMessageProcessingSteps\{201bb8ed-6915-e911-a95c-000d3a59720a}.xml" />
+    <Content Include="PkgFolder\Solution2\Solution2\WebResources\devops_copyEmail.data.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="PkgFolder\Solution1\Solution1\WebResources\devops_copyEmail" />
     <None Include="PkgFolder\Solution1_1_0_0_0_managed.zip" />
+    <None Include="PkgFolder\Solution2\Solution2\WebResources\devops_copyEmail" />
     <None Include="PkgFolder\Solution2_1_0_0_0_managed.zip" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PkgFolder\Packages\" />
-    <Folder Include="PkgFolder\Solution1\" />
-    <Folder Include="PkgFolder\Solution2\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
