@@ -204,9 +204,13 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="PkgFolder\Solution1\Solution1\WebResources\devops_copyEmail" />
-    <None Include="PkgFolder\Solution1_1_0_0_0_managed.zip" />
+    <None Include="PkgFolder\Solution1_1_0_0_0_managed.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="PkgFolder\Solution2\Solution2\WebResources\devops_copyEmail" />
-    <None Include="PkgFolder\Solution2_1_0_0_0_managed.zip" />
+    <None Include="PkgFolder\Solution2_1_0_0_0_managed.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PkgFolder\Packages\" />
