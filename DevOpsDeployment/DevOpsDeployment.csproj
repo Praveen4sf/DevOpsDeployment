@@ -204,14 +204,14 @@
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="PkgFolder\APAC_1_0_0_0_managed.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="PkgFolder\Core_1_0_0_0_managed.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Solution Packager\Solution1\WebResources\devops_copyEmail" />
-    <None Include="PkgFolder\Solution1_1_0_0_0_managed.zip">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="Solution Packager\Solution2\WebResources\devops_copyEmail" />
-    <None Include="PkgFolder\Solution2_1_0_0_0_managed.zip">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PkgFolder\Packages\" />
